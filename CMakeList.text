@@ -1,0 +1,13 @@
+cmake_minimum_required(VERSION 3.10)
+project(C_Project C)
+
+add_executable(Task-1 Task-1.c)
+add_executable(Task-2 Task-2.c)
+add_executable(Task-3 Task-3.c)
+add_executable(Task-4 Task-4.c)
+add_executable(Task-7 Task-7.c)
+add_executable(Task-8 Task-8.c)
+add_executable(Task-9 Task-9.c)
+add_executable(Task-55 Task-55.c)
+add_executable(Task-66 Task-66.c)
+add_executable(Main-Task "Main Task.c")
